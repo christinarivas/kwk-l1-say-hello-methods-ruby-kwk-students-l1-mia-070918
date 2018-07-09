@@ -5,3 +5,4 @@ def say_hello(name)
 end
 
 say_hello("christina")
+say_hello("jane")
